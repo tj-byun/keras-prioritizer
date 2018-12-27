@@ -1,0 +1,37 @@
+db_name: "taxinet.json"
+measure_accuracy: False
+save: True
+demo: False
+techniques:
+  - "bayesian-10"
+  - "dropout-10"
+  - "dropout-100"
+  - "bayesian-100"
+    #- "dropout-100"
+#  - "dsa-last1"
+#  - "dsa-last2"
+  #- "softmax"
+  #- "dsa-last3"
+  #- "dsa-feature"
+test_limit: 1000000
+bayesian_training_steps: 2000
+tolerance:
+  taxinet:
+    - 0.2
+      #- 3.5
+      #- 20.0
+  taxinet1:
+    - 0.5
+  taxinet5:
+    - 0.25
+batch_size:
+  taxinet: 350
+  taxinet5: 350
+  mnist: 1000
+  emnist: 1000
+bucket_size:
+  taxinet: 350
+  taxinet1: 300
+  taxinet5: 350
+  mnist: 1000
+  emnist: 1000
