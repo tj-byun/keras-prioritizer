@@ -28,7 +28,7 @@ import tensorflow_probability as tfp
 import keras
 from keras import backend as K
 
-import datasets, coverage, coverage_matrix, entropy
+import dataset, coverage, coverage_matrix, entropy
 import dsa
 
 logger = logging.getLogger('kprio')
