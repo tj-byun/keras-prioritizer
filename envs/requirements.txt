@@ -93,7 +93,7 @@ py==1.6.0
 py-trees==0.5.10
 pycodestyle==2.4.0
 pydot==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pymap3d==1.6.3
 pyparsing==2.2.0
 pytest==3.8.2
