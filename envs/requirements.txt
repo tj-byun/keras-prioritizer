@@ -23,7 +23,7 @@ controller-manager-msgs==0.13.3
 cplex==12.8.0.0
 cv-bridge==1.12.8
 cycler==0.10.0
-dask==0.18.2
+dask==2021.10.0
 decorator==4.3.0
 deepdish==0.3.6
 diagnostic-analysis==1.9.3
