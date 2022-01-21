@@ -52,7 +52,7 @@ idna==2.6
 image-geometry==1.12.8
 imgaug==0.2.6
 interactive-markers==1.11.4
-ipython==5.7.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 joblib==0.12.5
 Keras==2.2.4
