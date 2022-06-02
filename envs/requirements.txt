@@ -47,7 +47,7 @@ gennodejs==2.0.1
 genpy==0.6.7
 grpcio==1.13.0
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 image-geometry==1.12.8
 imgaug==0.2.6
