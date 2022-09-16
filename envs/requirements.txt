@@ -61,7 +61,7 @@ Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 laser-geometry==1.6.4
 llvmlite==0.25.0
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
