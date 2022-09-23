@@ -86,7 +86,7 @@ pluginlib==1.11.3
 pr2-power-board==1.1.6
 prettyprint==0.1.5
 prompt-toolkit==1.0.15
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.4.6
 ptyprocess==0.6.0
 py==1.6.0
